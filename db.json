@@ -1,29 +1,10 @@
 {
-  "posts": [
+  "produtos": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "nome": "Curso de Angular",
+      "validade": "2021-12-31",
+      "precoProduto": 550.54
     }
-  ],
-  "cliente": [
-    {
-      "id": 1,
-      "profile": "Sr",
-      "PrimeiroNOme": "Diego",
-      "SegundoNome": "Matheus",
-      "CPF": "49317590845",
-      "Endereco": 
-      {
-        "logradouro": "Rua",
-        "NomeEndereco": "Professor Custodio de Faria",
-        "Numero": "188",
-        "Bairro": "Parque Mandaqui",
-        "CEP": "02422250"
-      }
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
